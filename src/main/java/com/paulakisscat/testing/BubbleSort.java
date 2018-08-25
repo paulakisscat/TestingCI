@@ -5,6 +5,7 @@ import java.util.Arrays;
 /**
  * 
  * @author paulakisscat
+ * @version1.0
  *
  */
 public class BubbleSort {
