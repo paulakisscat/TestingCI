@@ -5,4 +5,5 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>tesing</name>
   <description>unit testing</description>
+  <packaging>jar</packaging>
 </project>
