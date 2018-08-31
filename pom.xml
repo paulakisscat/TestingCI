@@ -37,7 +37,7 @@
 
 				<build>
 					<finalName>TestingCI</finalName>
-					<defaultGoal>test</defaultGoal>
+					<defaultGoal>package</defaultGoal>
 
 					 <plugins>
 						<!--<plugin>
