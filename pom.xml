@@ -39,8 +39,8 @@
 					<finalName>TestingCI</finalName>
 					<defaultGoal>test</defaultGoal>
 
-					<plugins>
-						<plugin>
+					 <plugins>
+						<!--<plugin>
 							<groupId>org.apache.maven.plugins</groupId>
 							<artifactId>maven-compiler-plugin</artifactId>
 							<version>3.5</version>
@@ -49,7 +49,7 @@
 								<target>10.0.2</target>
 								<encoding>UTF8</encoding>
 							</configuration>
-						</plugin>
+						</plugin> -->
 
 
 
