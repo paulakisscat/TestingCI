@@ -11,7 +11,7 @@
 			<name>aliyun maven</name>
 			<url>http://maven.aliyun.com/nexus/content/groups/public/</url>
 		</repository>
-	</repositories>  
+	</repositories>
 
         <dependencies>
 					<dependency>
@@ -37,10 +37,10 @@
 
 				<build>
 					<finalName>TestingCI</finalName>
-					<defaultGoal>compile</defaultGoal>
+					<defaultGoal>test</defaultGoal>
 
 					<plugins>
-						<plugin>
+						<!-- <plugin>
 							<groupId>org.apache.maven.plugins</groupId>
 							<artifactId>maven-compiler-plugin</artifactId>
 							<version>3.5</version>
@@ -49,7 +49,7 @@
 								<target>10.0.2</target>
 								<encoding>UTF8</encoding>
 							</configuration>
-						</plugin>
+						</plugin> -->
 
 
 
